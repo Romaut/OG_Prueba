@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Inicio",
+		"tags": "",
+		"body": "<< Jugador>>\n¡Qué lugar tan hermoso! Estoy muy emocionado de poder vivir esta experiencia y tan cerca del mar, ¡como siempre lo soñé!\n<< Doctor>>\n¡Bienvenido a Marine Haven! Aquí aprenderás sobre el océano y la importancia de éste.\nEste es un regalo de mi parte \"Libro: Especies del mar\".\n<< Inicio_Libro>> \nEn este libro podras observar la informacion de los animales que vayas descubriendo.\n<< Fin_Libro>>\n<< Jugador>>\nNo lo entiendo, ¿podría volver a explicarme?\n<< Doctor>>\nClaro, permíteme explicarte.\n<< Final>> \nPrimero, selecciona el libro para acceder a su contenido.",
+		"position": {
+			"x": 243,
+			"y": 236
+		},
+		"colorID": 1
+	},
+	{
+		"title": "Narracion",
+		"tags": "",
+		"body": "Desde mi infancia, siempre soñé con ir al mar y explorar los secretos del océano.\nMi deseo por descubrir el océano aumentó cuando conocí la historia de la Dra. Elena Méndez, una científica marina reconocida por su incansable investigación sobre los océanos y la vida marina.\nLa Dra. Méndez dedicó su vida a comprender y conservar nuestros océanos, y siempre quise seguir sus pasos.\nMi oportunidad finalmente llegó cuando me seleccionaron en un concurso científico por mi participación destacada.\nEl premio por mi participación fue tener la oportunidad de embarcarme en un viaje como explorador del océano a Marine Haven.\nMis padres siempre me apoyaron en mi pasión por el océano. Cuando les conté sobre el viaje, se mostraron emocionados y orgullosos.\nCelebramos esta gran oportunidad hacia mis sueños.\nHoy llegaré a Marine Haven, una hermosa localidad costera que se convertiría en el punto de partida de mi aventura.\n<<Final>>",
+		"position": {
+			"x": -29,
+			"y": 236
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Tutorial Libro",
+		"tags": "",
+		"body": "<< Doctor>>\nEste es el [b]Indice[/b] del libro, que esta dividido en [b]Capitulos[/b].\n<< Jugador>> \nEntiendo.\n<<Doctor>> <<Pausar>>\nSelecciona uno de los capitulos para acceder a su contenido.\nEste capitulo aun esta vacio, es tu oportunidad de llenarlo con la informacion de las especies que vayas reconociendo.\n<< Final>> \nCierra el libro para que pueda explicarte como hacerlo.",
+		"position": {
+			"x": 507,
+			"y": 238
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Tutorial Camara",
+		"tags": "",
+		"body": "<< Doctor>> \nTu primera tarea será observar el océano: toma fotografías para desbloquear especies marinas y comprender la importancia de su biodiversidad.",
+		"position": {
+			"x": 756,
+			"y": 236
+		},
+		"colorID": 0
+	}
+]
